@@ -1,0 +1,136 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 20-Nov-2018, 09:54:57
+    Author     : Samu Rintala
+*/
+
+
+.laskurit {
+    display: inline-block;
+}
+
+.vastausjaseuraava {
+    margin-bottom: 50px;
+}
+
+.vastaus {
+    margin-left: 10px;
+}
+
+.lukujohon {
+    background-color: #d5f4e6;
+   
+}
+
+.oikein {
+    background-color: green;
+    color: white;
+    font-weight: bold;
+}
+
+.vaarin {
+    background-color: red;
+    color :white;
+    font-weight: bold;
+}
+
+.kuva {
+    margin-bottom: 10px;
+}
+
+.kysymykset {
+    padding-top: 10px;
+}
+
+.klikkaa {
+    cursor: pointer;
+}
+
+.visaasettelu {
+    margin-top: 50px;
+}
+
+.lopputulos {
+    padding-bottom: 20px;
+}
+
+.lopputulos2 {
+    font-size: 45px;
+}
+
+
+/*Kreikka osion tyylimäärittelyt*/
+.kreikkaotsikko {
+    font-family: 'Noticia Text', serif;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.kreikkaleipateksti {
+    font-family: 'Aref Ruqaa', serif;
+    font-size: 17px;
+}
+
+.kreikkavisa {
+    font-family: 'Crete Round', serif;
+    font-weight: bold;
+    
+}
+
+
+
+
+
+/*Rooma osion tyylimäärittelyt*/
+.roomaotsikko {
+    font-family: 'Playfair Display SC', serif;
+    font-size:40px;
+    font-weight:bold;
+}
+
+
+.roomaleipateksti {
+    font-family: 'Quattrocento', serif;
+    font-size:15px;
+
+}
+
+.roomavisa {
+    font-family: 'Playfair Display SC', serif;
+    font-size:20px;
+}
+
+
+/*Viikinki osion tyylimäärittelyt*/
+
+.viikinkiotsikko {
+    font-family: 'Skranji', cursive;
+    font-size:50px;
+    font-weight: bold;
+    padding-top: 10px;
+}
+
+.viikinkileipateksti {
+  font-family: 'Special Elite', cursive;
+  font-size:15px;
+}
+
+.viikinkivisa {
+    font-family: 'Skranji', cursive;
+    font-size:20px;
+}
+
+
+.onnittelut {
+    font-size:30px;
+    font-weight:bold;
+}
+
+
+
+
+

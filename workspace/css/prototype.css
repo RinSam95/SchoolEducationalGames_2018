@@ -1,0 +1,158 @@
+
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 13.11.2018, 9:15:56
+    Author: Riku, Juuso
+*/
+
+/* Projektin värimaailma:
+Vaalean keltainen: #fefbd8
+Turkoosi:#80ced6
+Vaalean sininen: #d5f4e6
+Tumma turkoosi:#618685
+*/
+
+.nav_tausta {
+    background-color: #618685;
+}
+.nav-link,
+.dropdown-item {
+    color: #d5f4e6 !important;
+}
+.nav-item {
+    font-size: 20px;
+}
+.nav-link:hover,
+.dropdown-item:hover {
+    color: #80ced6 !important;
+    background-color: transparent !important;
+}
+.navbar-toggler {
+    border-color: #FAEBD7;
+}
+/* viivojen väri stroke='rgba(250,235,215, 1)' */
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(250,235,215, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
+.dropdown-menu {
+    border: #d5f4e6 2px solid;
+}
+header {
+    background-color: #fefbd8;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.navbar {
+
+}
+.sisalle {
+    overflow: auto;
+}
+h3{
+    font-family: 'Amatic SC', cursive;
+    padding-left: 10px;
+    font-size: 40px;
+}
+h1{
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 55px;
+    padding-left: 10px;
+}
+body{
+    background-color: #80ced6;
+    position: relative;
+    margin: 0;
+    padding-bottom: 6rem;
+    min-height: 100%; 
+}
+footer {
+    /*color:#fefbd8;*/
+    background-color: #618685;
+    color: #d5f4e6;
+    margin-top:10px;
+    padding: 10px;
+
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+
+}  
+html {
+    height: 100%;
+    box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+.vuosi {
+    text-align: right;
+}
+.resp {
+    font-size: 55px;
+}
+.resp2{
+    font-size: 40px;
+}
+.resp3 {
+    font-size: 15px;
+}
+.resp4{
+    font-size: 20px;
+}
+.keskitys{
+    text-align:center;
+}
+.oikea{
+    text-align:right;
+}
+.vasen{
+    text-align:left;
+}
+
+@media screen and (max-width: 576px) {
+    .resp {
+        font-size: 28px;
+    }
+    .resp2 {
+        font-size: 26px;
+    }
+    .resp3 {
+        font-size: 10px;
+    }
+}   
+@media screen and (min-width: 576px) {
+    .resp {
+        font-size: 40px;
+    }
+    .resp2 {
+        font-size: 30px;
+    }
+    .resp3 {
+        font-size: 14px;
+    }
+}
+@media screen and (min-width: 768px) {
+    
+    
+
+}
+@media screen and (min-width: 992px) {
+    
+
+}
+
+@media screen and (min-width: 1200px) {
+    
+
+}
+
+
+
+
