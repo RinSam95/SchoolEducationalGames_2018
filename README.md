@@ -1,2 +1,2 @@
 # SchoolEducationalGames_2018
-School group project from Winter 2018, Oulu University of Applied Sciences. Meant to serve as an educational website for elementary schoolers. Only includes features developed by myself.
+School group project from Winter 2018, Oulu University of Applied Sciences. Meant to serve as an educational website for elementary school aged children. Developed with Javacript, JQuery and Bootstrap. Only includes the features developed by myself.
